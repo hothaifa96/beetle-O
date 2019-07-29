@@ -1,0 +1,10 @@
+C:\Users\hothaifa\source\repos\bounceball\bounceball\bin\Debug\bounceball.exe.config
+C:\Users\hothaifa\source\repos\bounceball\bounceball\bin\Debug\bounceball.exe
+C:\Users\hothaifa\source\repos\bounceball\bounceball\bin\Debug\bounceball.pdb
+C:\Users\hothaifa\source\repos\bounceball\bounceball\obj\Debug\bounceball.csprojAssemblyReference.cache
+C:\Users\hothaifa\source\repos\bounceball\bounceball\obj\Debug\bounceball.Properties.Resources.resources
+C:\Users\hothaifa\source\repos\bounceball\bounceball\obj\Debug\bounceball.csproj.GenerateResource.cache
+C:\Users\hothaifa\source\repos\bounceball\bounceball\obj\Debug\bounceball.csproj.CoreCompileInputs.cache
+C:\Users\hothaifa\source\repos\bounceball\bounceball\obj\Debug\bounceball.exe
+C:\Users\hothaifa\source\repos\bounceball\bounceball\obj\Debug\bounceball.pdb
+C:\Users\hothaifa\source\repos\bounceball\bounceball\obj\Debug\bounceball.beetlefield.resources
